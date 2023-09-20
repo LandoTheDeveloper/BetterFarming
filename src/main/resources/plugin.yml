@@ -1,0 +1,4 @@
+name: BetterFarming
+version: '${project.version}'
+main: lando.betterfarming.BetterFarming
+api-version: '1.20'

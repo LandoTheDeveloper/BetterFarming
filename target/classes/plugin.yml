@@ -1,0 +1,4 @@
+name: BetterFarming
+version: '1.0-SNAPSHOT'
+main: lando.betterfarming.BetterFarming
+api-version: '1.20'
